@@ -17,6 +17,10 @@ public class class2 {
 
 	 	 System.out.println("Changes to commit in Branch2");
 
+	 	 System.out.println("Changes to commit in Branch3");
+
+
+
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
