@@ -3,7 +3,7 @@ package objectRepository;
 public class class2 {
 
 	public void getData()
-	{System.out.println("How are you");
+	{
 	
 	
 	 
