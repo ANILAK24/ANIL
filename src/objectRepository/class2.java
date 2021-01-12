@@ -8,7 +8,8 @@ public class class2 {
 	System.out.println("Changes to commit");
 	 System.out.println("More Changes to commit");
 	 
-	 System.out.println("Changes to commit in Branch1");
+
+	 	 System.out.println("Changes to commit in Branch2");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
